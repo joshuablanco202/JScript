@@ -1,0 +1,35 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+}
+
+.container {
+  padding-top: 100px;
+}
+
+.textarea#task-Input.form-control {
+  padding-left: 20px;
+}
+.card {
+  border-color: rosybrown;
+  color: black;
+}
+
+.btn {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: black;
+  border-color: white;
+  color: aliceblue;
+}
+
+.btn:hover {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightblue;
+  border-color: black;
+  color: black;
+}
